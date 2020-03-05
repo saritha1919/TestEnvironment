@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testngsuite" duration-ms="70" started-at="2020-03-04T12:51:14 IST" finished-at="2020-03-04T12:51:14 IST">
+    <groups>
+    </groups>
+    <test name="one5" duration-ms="70" started-at="2020-03-04T12:51:14 IST" finished-at="2020-03-04T12:51:14 IST">
+      <class name="com.test.utilities.TestEnv">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.test.utilities.TestEnv@4f970963]" name="beforeTest" is-config="true" duration-ms="37" started-at="2020-03-04T12:51:14 IST" finished-at="2020-03-04T12:51:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prod]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="functionalTest()[pri:0, instance:com.test.utilities.TestEnv@4f970963]" name="functionalTest" duration-ms="12" started-at="2020-03-04T12:51:14 IST" finished-at="2020-03-04T12:51:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- functionalTest -->
+      </class> <!-- com.test.utilities.TestEnv -->
+    </test> <!-- one5 -->
+  </suite> <!-- Testngsuite -->
+</testng-results>

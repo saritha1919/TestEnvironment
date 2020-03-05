@@ -1,0 +1,9 @@
+ <suite name="Testngsuite">-- any name of suite
+	<test name="one5">--any name of test/feature
+		<classes>
+			<parameter name="environment"  value="prod"/>
+			<class name="com.test.utilities.TestEnv"></class>
+		</classes>
+	</test>
+</suite> 
+
